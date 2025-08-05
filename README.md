@@ -1,6 +1,5 @@
 ## 📝 Project Overview
-Complete implementation of SysTick timer and NVIC (Nested Vectored Interrupt Controller) drivers for Texas Instruments' TM4C123GH6PM microcontroller (ARM Cortex-M4F core), developed as the final project for Advanced Embedded Diploma.
-
+Complete implementation of SysTick timer and NVIC (Nested Vectored Interrupt Controller) drivers for Texas Instruments TM4C123GH6PM microcontroller (ARM Cortex-M4F core)
 ## 🚀 Features
 
 ### SysTick Driver
